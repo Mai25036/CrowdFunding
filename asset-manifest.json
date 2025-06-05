@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CrowdFunding/static/css/main.231e871e.css",
+    "main.js": "/CrowdFunding/static/js/main.06a57a38.js",
+    "static/js/488.8a8fd520.chunk.js": "/CrowdFunding/static/js/488.8a8fd520.chunk.js",
+    "index.html": "/CrowdFunding/index.html",
+    "main.231e871e.css.map": "/CrowdFunding/static/css/main.231e871e.css.map",
+    "main.06a57a38.js.map": "/CrowdFunding/static/js/main.06a57a38.js.map",
+    "488.8a8fd520.chunk.js.map": "/CrowdFunding/static/js/488.8a8fd520.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.231e871e.css",
+    "static/js/main.06a57a38.js"
+  ]
+}
